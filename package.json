@@ -1,6 +1,6 @@
 {
   "name": "noticias",
-  "homepage": "https://github.com/RodolfoSeguel/GestionDeNoticias",
+  "homepage": ".",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
