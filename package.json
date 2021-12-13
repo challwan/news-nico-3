@@ -1,6 +1,6 @@
 {
   "name": "noticias",
-  "homepage": ".",
+  "homepage": "https://news-nico-3.vercel.app/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
