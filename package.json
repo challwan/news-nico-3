@@ -1,6 +1,5 @@
 {
   "name": "noticias",
-  "homepage": "https://challwan.github.io/news-nico-3/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
